@@ -74,7 +74,7 @@ kr2-bootstrap-shop/
 
 ## Ссылка на опубликованный проект
 
-GitHub Pages: https://arsikbarsik1337.github.io/kr2-html-css-shop/
+GitHub Pages: https://arsikbarsik1337.github.io/kr2-bootstrap-shop/
 
 ## Описание самостоятельных доработок
 
