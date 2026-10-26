@@ -14,3 +14,18 @@ body {
   height: 180px;
   object-fit: cover;
 }
+
+.carousel-item {
+  min-height: 380px;
+}
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: flex !important;
+  align-items: center;
+}
+
+.carousel-item .container {
+  width: 100%;
+}
